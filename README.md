@@ -12,7 +12,7 @@ Currently looking for a **6-month AI/ML internship starting 01/09/2026** — int
 
 ### Sensor-Based Material Classification — *live competition, rank 4 / 15 teams*
 
-University ML project (HS Offenburg, 3rd semester, team of 5). Supervised classifier on time-series drill-sensor signals, deployed against a live competition harness (`Wettkampfprozessor`) where professors drilled materials on-stage to test each team's model in real time.
+University ML project (HS Offenburg, 3rd semester, team of 4). Supervised classifier on time-series drill-sensor signals, deployed against a live competition harness (`Wettkampfprozessor`) where professors drilled materials on-stage to test each team's model in real time.
 
 | Metric | Value |
 |---|---|
